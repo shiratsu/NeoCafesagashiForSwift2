@@ -1,0 +1,2 @@
+# NeoCafesagashiForSwift2
+CoreDataなんてやめて、Realmで作ろうぜって感じで、新しく作り直し
